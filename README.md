@@ -9,5 +9,5 @@
 
 
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkoseler&theme=dark" alt="elifkoseler"width='400' /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkoseler&theme=dark" alt="elifkoseler"width='450' /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifkoseler&label=Profile%20views&color=c9a2d7&style=flat" alt="elifkoseler" /> <img src= "https://img.shields.io/github/stars/elifkoseler?style=plastic&color=c9a2d7&style=flat"/></p>
