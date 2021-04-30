@@ -1,5 +1,5 @@
 <h2 align="left"> Hello there, I'm Elif! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://user-images.githubusercontent.com/35169772/116637110-b64c9880-a96b-11eb-8184-d802f23eb917.gif' width='350"'>
+<img align='right' src='https://user-images.githubusercontent.com/35169772/116637110-b64c9880-a96b-11eb-8184-d802f23eb917.gif' width='300'>
 
 <h4 align="left">A passionate software developer from Istanbul,Turkey</h3>
 
@@ -9,5 +9,5 @@
 
 
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkoseler&theme=dark" alt="elifkoseler" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkoseler&theme=dark" alt="elifkoseler"width='400' /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifkoseler&label=Profile%20views&color=c9a2d7&style=flat" alt="elifkoseler" /> <img src= "https://img.shields.io/github/stars/elifkoseler?style=plastic&color=c9a2d7&style=flat"/></p>
