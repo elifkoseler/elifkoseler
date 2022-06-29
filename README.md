@@ -1,4 +1,4 @@
-<h2 align="left"> Hello there, I'm Elif! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="left"> Hello there, I'm Elif! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/35169772/116637110-b64c9880-a96b-11eb-8184-d802f23eb917.gif' width='300'>
 
 <h4 align="left">A passionate software engineer from Istanbul,Turkey</h3>
